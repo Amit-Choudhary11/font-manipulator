@@ -22,9 +22,9 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 .footer{
 position: fixed;
 bottom: 0;
-color: rgb(0, 0, 0);
+color: white;
 text-align: center;
-background-color: rgb(130, 252, 252);
+background-color: rgb(4, 167, 167);
 line-height: 30px;
 width:100%;
 margin-bottom: 0;
@@ -33,9 +33,9 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 }
 
 canvas{
-    border-radius: 20px;
+    border-radius: 25px;
     border-width: 10px;
     border-style: solid;
     border-color: white;
-    box-shadow: 9px 9px 9px grey ;
+    
 }
